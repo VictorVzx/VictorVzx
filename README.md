@@ -20,6 +20,12 @@
   <a href="https://instagram.com/vvzx_victor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<div>
+  <a href="https://github.com/VictorVzx">
+  <img height="100em" src="https;//github-readme-stats.vercel.app/api?username=VictorVzx&show-icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https;//github-readme-stats.vercel.app/api/top-langs/?username=VictorVzx&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 <br>
 
 <picture align="center">
