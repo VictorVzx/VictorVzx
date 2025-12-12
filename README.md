@@ -2,8 +2,8 @@
 - 🎂 Idade: 18 Anos
 - 🎒 Cursando o 3º Ano do Ensino Médio
 - 👨‍💻 Técnico em Informática
-- 👨‍🎓 Possuo conhecimento em HTML, CSS, JS e Python.
-- 💻 Estou aprendendo React
+- 👨‍🎓 Possuo conhecimento em HTML, CSS, JS, ReactJS e Python.
+- 💻 Estou aprendendo Java
 - 🗣️ Idiomas: Português (Nativo) e Inglês (C1/C2 Avançado -> Fluente)
 
 <h2>My stack ~</h2>
