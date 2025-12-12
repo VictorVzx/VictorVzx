@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Victor Compertino / Hi there! I'm Victor Compertino. 👋
 - 🎂 Idade: 18 Anos
-- 🎒 Cursando o 3º Ano do Ensino Médio
+- 🎒 Ensino médio completo.
 - 👨‍💻 Técnico em Informática
 - 👨‍🎓 Possuo conhecimento em HTML, CSS, JS, ReactJS e Python.
 - 💻 Estou aprendendo Java
