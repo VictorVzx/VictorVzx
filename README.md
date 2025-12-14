@@ -6,19 +6,25 @@
 - 💻 Estou aprendendo Java
 - 🗣️ Idiomas: Português (Nativo) e Inglês (C1/C2 Avançado -> Fluente)
 
-<h2>My stack ~</h2>
-
+<h2>Front-End Stack ~</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
 </div>
-  
+
+<h2>Back-End Stack ~</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Victor-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<h2>Others ~</h2>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 
 <div style="text-align: center;" align="center">
   <h2>GitHub Stats ~</h2>
