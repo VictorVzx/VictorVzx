@@ -1,5 +1,6 @@
-
-## Olá! Sou Victor Compertino.
+<div style="text-align: center;" align="center">
+    <h1>Olá! Sou Victor Compertino.</h1>
+</div>
 
 - 🎂 Idade: 18 Anos
 - 🎒 Ensino médio completo.
@@ -8,25 +9,33 @@
 - 💻 Estou aprendendo Java
 - 🗣️ Idiomas: Português (Nativo) e Inglês (C1/C2 Avançado -> Fluente)
 
+<div style="text-align: center;" align="center">
 <h2>Front-End Stack ~</h2>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Victor-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
+
+<br>
 
 <h2>Back-End Stack ~</h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<div style="display: inline_block">
+  <img align="center" alt="Victor-postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Victor-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Victor-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<h2>Others ~</h2>
 </div>
 
-<div style="display: inline_block"><br>
+<br>
+
+<h2>Others ~</h2>
+
+<div style="display: inline_block">
   <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+
+<br>
 
 <div style="text-align: center;" align="center">
   <h2>GitHub Stats ~</h2>
@@ -39,6 +48,7 @@
 
 <br>
 
+<div style="text-align: center;" align="center">
   <h2>Social Media ~</h2>
  
 <div> 
