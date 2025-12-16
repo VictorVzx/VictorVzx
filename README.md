@@ -1,12 +1,12 @@
-<div style="text-align: center;" align="center">
-## Olá! Eu sou o Victor Compertino / Hi there! I'm Victor Compertino. 👋
+
+## Olá! Sou Victor Compertino.
+
 - 🎂 Idade: 18 Anos
 - 🎒 Ensino médio completo.
 - 👨‍💻 Técnico em Informática
 - 👨‍🎓 Possuo conhecimento em HTML, CSS, JS, ReactJS e Python.
 - 💻 Estou aprendendo Java
 - 🗣️ Idiomas: Português (Nativo) e Inglês (C1/C2 Avançado -> Fluente)
-</div>
 
 <h2>Front-End Stack ~</h2>
 <div style="display: inline_block"><br>
