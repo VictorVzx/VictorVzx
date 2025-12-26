@@ -6,7 +6,7 @@
 - 🎒 Ensino médio completo.
 - 👨‍💻 Técnico em Informática
 - 👨‍🎓 Possuo conhecimento em HTML, CSS, JS, ReactJS e Python.
-- 💻 Estou aprendendo Java
+- 💻 Atualmente aprendendo Java
 - 🗣️ Idiomas: Português (Nativo) e Inglês (C1/C2 Avançado -> Fluente)
 
 <div style="text-align: center;" align="center">
