@@ -1,5 +1,5 @@
 <div style="text-align: center;" align="center">
-    <h1>Olá! Sou Victor Compertino.</h1>
+    <h1>Hey! I'm Victor Compertino.</h1>
 </div>
 
 - 🎂 Idade: 18 Anos
