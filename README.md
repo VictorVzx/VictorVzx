@@ -6,6 +6,12 @@ Desenvolvedor Full Stack na área de Desenvolvimento Web.
 
 ---
 
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorVzx&theme=nord_dark)
+  
+</div>
+
 ## 🧑‍💻 Desenvolvedor Full stack
 <a href="https://www.linkedin.com/in/victor-compertino-a35861390/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
