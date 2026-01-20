@@ -12,7 +12,7 @@ Desenvolvedor Full Stack na área de Desenvolvimento Web.
   
 </div>
 
-## 🧑‍💻 Desenvolvedor Full stack
+## 📱 Entre em Contato
 <a href="https://www.linkedin.com/in/victor-compertino-a35861390/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
