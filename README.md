@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Me chamo Victor Compertino.</h1>
 
 <p align="center">
-Desenvolvedor Full Stack na área de Desenvolvimento Web.
+Programador Full Stack na área de Desenvolvimento Web.
 </p>
 
 ---
