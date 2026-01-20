@@ -68,3 +68,12 @@ Possuo ensino médio completo com **Curso Técnico de Informática integrado** e
 ✅ Desejo de aprender.  
 ✅ Aberto para novas tecnologias e experiências.  
 
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorVzx&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVzx&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas">
+</div>
+
