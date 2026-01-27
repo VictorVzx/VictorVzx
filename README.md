@@ -1,4 +1,6 @@
-<img src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" width="600px" height="280px">
+<div align="center">
+  <img src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" width="600px" height="300px" justify="center">
+</div>
 
 <h1 align="center">👋 Olá! Me chamo Victor Compertino.</h1>
 
