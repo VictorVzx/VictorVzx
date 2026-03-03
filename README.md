@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" width="600px" height="300px" justify="center">
 </div>
-
 <h1 align="center">👋 Olá! Me chamo Victor Compertino.</h1>
-
 <p align="center">
 Programador Full Stack na área de Desenvolvimento Web.
 </p>
@@ -22,6 +20,7 @@ Programador Full Stack na área de Desenvolvimento Web.
 </a>
 
 ## My stack
+
 ### Front End
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -53,12 +52,10 @@ Programador Full Stack na área de Desenvolvimento Web.
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-
 ---
 
 ## 🚀 Formação:
-
-Possuo ensino médio completo com **Curso Técnico de Informática integrado** e pretendo futuramente me formar em **Sistemas de Informação** ou **Análise e Desenvolvimento de Sistemas (ADS)**.
+Possuo ensino médio completo com **Curso Técnico de Informática** integrado e atualmente estou cursando **Sistemas de Informação**.
 
 ✅ Desejo de aprender.  
 ✅ Aberto para novas tecnologias e experiências.  
@@ -66,9 +63,6 @@ Possuo ensino médio completo com **Curso Técnico de Informática integrado** e
 ---
 
 <h2 align="center">GitHub Stats</h2>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterhst-p-anuraghazra.vercel.app/api?username=VictorVzx&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-  <img height="180em" src="https://github-readme-stats-git-masterhst-p-anuraghazra.vercel.app/api/top-langs/?username=VictorVzx&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas">
+  <img src="https://streak-stats.demolab.com?user=VictorVzx&theme=dark&hide_border=false" alt="GitHub Streak">
 </div>
-
