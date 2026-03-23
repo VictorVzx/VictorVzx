@@ -55,7 +55,7 @@ Programador Full Stack na área de Desenvolvimento Web.
 ---
 
 ## 🚀 Formação:
-Possuo ensino médio completo com **Curso Técnico de Informática** integrado e atualmente estou cursando **Sistemas de Informação**.
+Possuo ensino médio completo com **Curso Técnico de Informática** integrado e atualmente estou cursando **Sistemas de Informação** pela Universidade Federal do Piauí, Campus Senador Helvídio Nunes de Barros (Picos).
 
 ✅ Desejo de aprender.  
 ✅ Aberto para novas tecnologias e experiências.  
