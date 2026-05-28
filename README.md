@@ -56,8 +56,7 @@
 
 ### Ambiente & Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/fedora-%233C6EB4.svg?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
+  <img src="https://img.shields.io/badge/COSMIC-1E1E2E?style=for-the-badge&logo=system76&logoColor=74C7EC" alt="COSMIC Desktop"> 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
