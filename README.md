@@ -76,9 +76,6 @@
   <a href="mailto:gifpa45we@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://victorr.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
 </p>
 
 ---
