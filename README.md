@@ -22,7 +22,7 @@
 
 - 🎓 Graduando em **Sistemas de Informação** na Universidade Federal do Piauí (UFPI - Campus Picos).
 - 🛠️ Técnico em Informática completo, unindo uma base sólida de conceitos com a prática acadêmica e profissional.
-- 🐧 Entusiasta do ecossistema **Linux**, focado em produtividade e customização do ambiente de desenvolvimento (atualmente usando o Pop! OS 24.22 LTS).
+- 🐧 Entusiasta do ecossistema **Linux**, focado em produtividade e customização do ambiente de desenvolvimento (atualmente usando o Pop! OS 24.04 LTS).
 - 💬 Fluente em Inglês, habituado a interagir em ambientes e comunidades internacionais.
 
 ---
